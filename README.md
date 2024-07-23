@@ -41,7 +41,7 @@ Very powerfull & dangerou WhatsApp Bug 🐛 bot.
    [`More hacks & tutorials`](youtube.com/@techgod143)
 
 # contact to owner 👇    
-<a aria-label="Join our chats" href="https://wa.me/23456476729?text=Hi!! `Tech God` Sir, I need Your Help" target="_blank">
+<a aria-label="Join our chats" href="https://wa.me/2349056476729?text=Hi!! `Tech God` Sir, I need Your Help" target="_blank">
     <img alt="whatsapp" src="https://img.shields.io/badge/Owner%20Whatsapp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" />
 </p>
 <a aria-label="Join our chats" href="(https://whatsapp.com/channel/0029Va9Ufzi8kyyEnEHvOm1h)" target="_blank">
